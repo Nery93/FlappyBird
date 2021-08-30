@@ -1,4 +1,4 @@
-console.log('Flappy Bird');
+console.log('Flappy Bird')
 
 const sprites = new Image()
 sprites.src = './sprites.png'
